@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+phik
+scikit-learn
+category_encoders
+shap
+requests
+notebook
